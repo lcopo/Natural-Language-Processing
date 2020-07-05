@@ -1,6 +1,6 @@
 # Udacity - Natural Language Processing Nanodegree
 
-![NLP](NLP_Cert.pdf)
+![NLP](NLP_Cert.png)
 
 # Projects of Natural Language Processing
 
